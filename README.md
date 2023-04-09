@@ -11,21 +11,21 @@ The goal of this project is to learn how to make a game with the Godot game engi
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/jungersa/dungeon_delve/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/jungersa/Dungeon-Delve/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Support
 
-If you encounter any issues while using the game, please open an issue on the GitHub repository. And if you have any questions, feel free to contact me on my github account. If you would like to contribute to the project, please read the [CONTRIBUTING.md](https://github.com/jungersa/dungeon_delve/blob/master/CONTRIBUTING.md) file.
+If you encounter any issues while using the game, please open an issue on the GitHub repository. And if you have any questions, feel free to contact me on my github account. If you would like to contribute to the project, please read the [CONTRIBUTING.md](https://github.com/jungersa/Dungeon-Delve/blob/master/CONTRIBUTING.md) file.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/jungersa/dungeon_delve/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/jungersa/Dungeon-Delve/tags).
 
 ## Authors
 
 * **Arnaud Jungers** - *Initial work* - [jungersa](https://github.com/jungersa)
 
-See also the list of [contributors](https://github.com/jungersa/dungeon_delve/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/jungersa/Dungeon-Delve/graphs/contributors) who participated in this project.
 
 ## License
 

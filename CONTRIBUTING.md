@@ -9,7 +9,7 @@ We welcome contributions from everyone! If you are interested in contributing to
 
 ## Code of Conduct
 
-This project has a [Code of Conduct](https://github.com/jungersa/dungeon_delve/blob/master/CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+This project has a [Code of Conduct](https://github.com/jungersa/Dungeon-Delve/blob/master/CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
 
 ## Credits
 
